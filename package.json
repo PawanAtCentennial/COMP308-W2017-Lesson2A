@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/PawanAtCentennial/COMP308-W2017-Lesson2A/issues"
   },
-  "homepage": "https://github.com/PawanAtCentennial/COMP308-W2017-Lesson2A#readme"
+  "homepage": "https://github.com/PawanAtCentennial/COMP308-W2017-Lesson2A#readme",
+  "dependencies": {
+    "connect": "^3.6.5"
+  }
 }
